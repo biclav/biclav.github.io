@@ -16,12 +16,9 @@ My interests include *data analytics*, and `Python programming`.
 - Python  
 - Data Visualization (Matplotlib, Seaborn)  
 - Data Analysis  
-- Markdown, Git, GitHub Pages
-- Project Planning and Scheduling
 - ARCGIS
 - Civil 3D
 
----
 
 ## Sample Projects
 
@@ -37,15 +34,14 @@ Transportation systems are among the most critical components of the economy and
 ### Project 2: Water Quality
 <img width="611" alt="image" src="https://github.com/user-attachments/assets/cc5ba566-3d52-4bd7-bb5d-a3136a55a306" />
 .jpg)  
-The objective of this study was to investigate patterns in TCR violations across five U.S. states—Massachusetts (MA), Georgia (GA), Illinois (IL), New York (NY), and Nebraska (NE) , each representing a different EPA region
-
----
+The objective of this study was to investigate patterns in TCR violations across five U.S. states—Massachusetts (MA), Georgia (GA), Illinois (IL), New York (NY), and Nebraska (NE) , each representing a different EPA region. 
+Multiple plotting were created to evaluate , TCR violations , system size effect , Ethical implications.
 
 ## Connect With Me
 
-- [LinkedIn](https://[www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/claver-bizi-522a9435a/))  
+- [LinkedIn](https://[www.linkedin.com/in/yourprofile]  
 - [GitHub](https://github.com/yourusername)  
-- [Email Me](mailto:yourname@university.edu)
+  
 
 ---
 

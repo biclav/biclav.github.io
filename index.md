@@ -43,11 +43,4 @@ Multiple plotting were created to evaluate , TCR violations , system size effect
 - [GitHub](https://github.com/cbizi2@github.com)  
   
 
----
 
-## Navigation
-
-- [Home](index.md)  
-- [About Me](about.md)  
-- [Projects](projects.md)  
-- [Contact](contact.md)

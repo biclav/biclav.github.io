@@ -40,7 +40,7 @@ Multiple plotting were created to evaluate , TCR violations , system size effect
 ## Connect With Me
 
 - [LinkedIn](https://(www.linkedin.com/in/biclav)  
-- [GitHub](https://github.com/yourusername)  
+- [GitHub](https://github.com/cbizi2@github.com)  
   
 
 ---

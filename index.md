@@ -22,6 +22,7 @@ My interests include *data analytics*, and `Python programming`.
 ---
 
 ## Projects
+Water Quality
 
 ### Project 1: Title of Your Project
 ![Screenshot of project](images/project1.png)  

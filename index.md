@@ -1,6 +1,7 @@
 # Your Full Name
-
+Claver Bizi
 Welcome to my personal website! Here you'll find information about my background, projects, and interests.
+I am from East- Central Africa
 
 ---
 
@@ -18,22 +19,24 @@ My interests include *data analytics*, and `Python programming`.
 - Data Analysis  
 - Markdown, Git, GitHub Pages
 - Project Planning and Scheduling
+- ARCGIS
 
 ---
 
-## Projects
-Water Quality
+## Sample Projects
 
-### Project 1: Title of Your Project
-![Screenshot of project](images/project1.png)  
+### Project 1: National Household Travel Survey
+<img width="710" alt="image" src="https://github.com/user-attachments/assets/3497ac2b-9f2e-44a6-9a35-367573750a8f" />
+.png)  
 *Brief description of the project goes here. Include what tools/languages you used and what the outcome was.*
 
 [View the code](https://github.com/yourusername/project1)
 
 ---
 
-### Project 2: Another Project
-![Placeholder image](images/project2.jpg)  
+### Project 2: Water Quality
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/cc5ba566-3d52-4bd7-bb5d-a3136a55a306" />
+.jpg)  
 *A short description of this project. What problem did it solve? What did you learn?*
 
 ---

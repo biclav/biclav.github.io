@@ -37,13 +37,13 @@ Transportation systems are among the most critical components of the economy and
 ### Project 2: Water Quality
 <img width="611" alt="image" src="https://github.com/user-attachments/assets/cc5ba566-3d52-4bd7-bb5d-a3136a55a306" />
 .jpg)  
-*A short description of this project. What problem did it solve? What did you learn?*
+The objective of this study was to investigate patterns in TCR violations across five U.S. states—Massachusetts (MA), Georgia (GA), Illinois (IL), New York (NY), and Nebraska (NE) , each representing a different EPA region
 
 ---
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [LinkedIn](https://[www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/claver-bizi-522a9435a/))  
 - [GitHub](https://github.com/yourusername)  
 - [Email Me](mailto:yourname@university.edu)
 
